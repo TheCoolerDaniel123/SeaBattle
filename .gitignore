@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Code::Blocks (generated / per-user files)
+*.depend
+*.layout
+*.cbp.bak
